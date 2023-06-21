@@ -1,0 +1,8 @@
+{
+  "contest": 251,
+  "handle": "carlitox477",
+  "risk": "2",
+  "title": "Schedule recovery DOS by front-running with original schedule recovery transaction if no other transaction is executed",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2023-06-ambire-mitigation-findings/issues/7"
+}
