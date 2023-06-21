@@ -1,0 +1,8 @@
+{
+  "contest": 251,
+  "handle": "carlitox477",
+  "risk": "2",
+  "title": "`tryCatchLimit`  can forward less than the specified gasLimit due to how CALL* opcode forward gas",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2023-06-ambire-mitigation-findings/issues/8"
+}
